@@ -1,0 +1,1 @@
+# organic-and-non-organic-waste-classification-using-ResnetV2
